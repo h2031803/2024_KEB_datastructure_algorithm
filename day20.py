@@ -9,3 +9,4 @@ if __name__ == "__main__":
 
     # f = int(input())
     # print(mymath.factorial(f))
+
