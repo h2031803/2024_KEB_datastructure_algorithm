@@ -36,3 +36,4 @@ def nCr(n, r) -> int:  # SRP, OCP 위반 / 클로져 / 어노테이션 / 개방�
     numerator = factorial(n)
     denominator = factorial(n-r) * factorial(r)
     return int(numerator / denominator)
+
